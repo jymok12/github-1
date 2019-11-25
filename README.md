@@ -35,8 +35,7 @@ Github.js is tested on Node:
 
 ## GitHub Tools
 
-The team behind Github.js has created a whole organization, called [GitHub Tools](https://github.com/github-tools),
-dedicated to GitHub and its API. In the near future this repository could be moved under the GitHub Tools organization
+GitHub Tools, created by Github.js team is used for GitHub and API. In the near future this repository could be moved under the GitHub Tools organization
 as well. In the meantime, we recommend you to take a look at other projects of the organization.
 
 ## Samples
